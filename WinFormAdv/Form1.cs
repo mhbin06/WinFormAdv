@@ -21,5 +21,10 @@ namespace WinFormAdv
         {
 
         }
+
+        private void 보기ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
